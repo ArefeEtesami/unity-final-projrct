@@ -1,2 +1,2 @@
-# unity-final-projrct
+# unity-final-project
 unity final projrct - shooting 3 different objects
